@@ -3,7 +3,7 @@
 
 ## Overview of the challenge
 
-This analysis will help us determine the viability of doing an business venture in Hawaii. We want to start a surf store but our main investor is worried about the weather conditions for the store location. Below we will present a summary of our findings.
+This analysis will help us determine the viability of doing a business venture in Hawaii. We want to start a surf store but our main investor is worried about the weather conditions for the store location. Below we will present a summary of our findings.
 
 ## Results
 
